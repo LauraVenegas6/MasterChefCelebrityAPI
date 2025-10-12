@@ -1,5 +1,6 @@
 name: CI - Tests en Develop
 
+
 on:
   push:
     branches: [ develop ]
@@ -37,3 +38,4 @@ jobs:
       with:
         name: test-results
         path: target/surefire-reports/
+
