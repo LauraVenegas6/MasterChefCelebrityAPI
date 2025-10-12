@@ -25,7 +25,7 @@ import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.*;
 
 /**
- * Unit tests for RecipeService
+ * Unit tests for RecipeService.
  */
 @ExtendWith(MockitoExtension.class)
 @DisplayName("Tests del Servicio de Recetas")
