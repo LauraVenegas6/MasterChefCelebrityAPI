@@ -155,4 +155,3 @@ Enlace: http://localhost:8080/swagger-ui/index.html
 ## Pruebas unitarias
 <p align="center"> <img src="docs/images/image-14.png" alt="Pruebas unitarias" width="75%"> </p> ```
 
-![alt text](image-18.png)
