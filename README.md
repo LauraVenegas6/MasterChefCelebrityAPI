@@ -15,7 +15,7 @@ mvn spring-boot:run
 Para probar los endpoints se utilizó Thunder Client.  
 
 1. Registrar una receta de un televidente
-<p align="center"> <img src="image.png" alt="Registrar receta televidente" width="75%"> </p>  
+<p align="center"> <img src="docs/images/image.png" alt="Registrar receta televidente" width="75%"> </p> 
 json  
 {
   "titulo": "Arroz con Pollo Casero",
