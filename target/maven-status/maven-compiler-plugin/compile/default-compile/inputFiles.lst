@@ -1,0 +1,12 @@
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\config\OpenApiConfig.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\controller\RecipeController.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\dto\RecipeRequestDTO.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\dto\RecipeResponseDTO.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\exception\GlobalExceptionHandler.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\exception\RecipeNotFoundException.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\MasterchefApiApplication.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\model\ChefType.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\model\Recipe.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\repository\RecipeRepository.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\service\impl\RecipeServiceImpl.java
+C:\Users\aleja\OneDrive\2025-2\dosw\semanaReceso\MasterChefCelebrityAPI\src\main\java\com\dosw\masterchef\service\RecipeService.java
