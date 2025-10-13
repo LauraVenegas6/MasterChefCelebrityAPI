@@ -147,10 +147,12 @@ Endpoint: http://localhost:8080/api/recetas/1
 ## SWAGGER
 Enlace: http://localhost:8080/swagger-ui/index.html
 
-<p align="center"> <img src="docs/images/image-15.png" alt="Swagger 1" width="75%"> </p> <p align="center"> <img src="docs/images/image-16.png" alt="Swagger 2" width="75%"> </p> <p align="center"> <img src="docs/images/image-17.png" alt="Swagger 3" width="75%"> </p>  
+<p align="center"> <img src="docs/images/image-18.png" alt="Swagger 1" width="75%"> </p> <p align="center"> <img src="docs/images/image-19.png" alt="Swagger 2" width="75%"> </p> <p align="center"> <img src="docs/images/image-17.png" alt="Swagger 3" width="75%"> </p>  
 
 ## Persistencia
 <p align="center"> <img src="docs/images/image-12.png" alt="Persistencia 1" width="75%"> </p> <p align="center"> <img src="docs/images/image-13.png" alt="Persistencia 2" width="75%"> </p>
 
 ## Pruebas unitarias
 <p align="center"> <img src="docs/images/image-14.png" alt="Pruebas unitarias" width="75%"> </p> ```
+
+![alt text](image-18.png)
